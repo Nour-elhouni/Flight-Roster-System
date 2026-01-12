@@ -59,11 +59,11 @@ The goal of this project was to practice:
 - Requirement handling  
 - Team-based development  
 - Real-world system modeling
-- 
+  
 ## Team Members
+- Nour 
 - Zainab 
 - Abdullah 
 - Raihana 
-- Nour 
 - Asma 
 - Mohammed 
